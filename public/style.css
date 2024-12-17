@@ -1,0 +1,27 @@
+body{
+    background-color: darkgreen;
+    margin: auto;
+}
+
+h1{
+    text-align: center;
+    color: gold;
+}
+
+p{
+    color: gold;
+}
+
+.footer{
+    text-align: center;
+}
+
+button{
+    padding: 1rem;
+}
+
+.tarolo{
+    margin: 0 auto;
+    
+    align-items: center;
+}
